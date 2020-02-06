@@ -6,3 +6,4 @@ cdnConfig/**/*
 projects/**/*
 !projects/exam/
 !projects/examLibs/
+package-lock.json
