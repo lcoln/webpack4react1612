@@ -1,9 +1,9 @@
 node_modules
 dist
-logs/**/*
-cdnConfig/**/*
+logs/*
+cdnConfig/*
 !cdnConfig/exam/
-projects/**/*
+projects/*
 !projects/exam/
 !projects/examLibs/
 package-lock.json
