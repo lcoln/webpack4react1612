@@ -1,0 +1,8 @@
+node_modules
+dist
+logs/**/*
+cdnConfig/**/*
+!cdnConfig/exam/
+projects/**/*
+!projects/exam/
+!projects/examLibs/
